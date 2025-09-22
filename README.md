@@ -12,32 +12,42 @@ Tugas ini mengimplementasikan berbagai metode array pada JavaScript yaitu `map()
 ### 1. map()
 - **Tujuan**: Mengubah semua nama karakter menjadi huruf kapital.
 - **Output**:  <img width="520" height="261" alt="image" src="https://github.com/user-attachments/assets/06c028ee-96d0-4d19-9141-6783f759aad4" />
+- **SS Kode**: <img width="787" height="110" alt="image" src="https://github.com/user-attachments/assets/a589649f-3629-4cca-811e-69482f14388e" />
+
 
 
 ### 2. filter()
 - **Tujuan**: Menyaring karakter yang umurnya lebih dari 20 tahun.
 - **Output**: <img width="959" height="196" alt="image" src="https://github.com/user-attachments/assets/f2cc7f39-34ca-4d63-afd7-49e8ba42cbdf" />
+- **SS Kode**: <img width="641" height="125" alt="image" src="https://github.com/user-attachments/assets/b4c17b01-8f84-40d4-9ead-01295e2215de" />
 
+
+  
 ### 3. reduce()
 - **Tujuan**: Menghitung total umur semua karakter.
 - **Output**:  <img width="147" height="29" alt="image" src="https://github.com/user-attachments/assets/e2e97da1-d095-4433-b5eb-5c33d665db0f" />
+- **SS Kode**: <img width="793" height="99" alt="image" src="https://github.com/user-attachments/assets/80565cdf-ee6f-4557-98e3-379862a6cb34" />
+
 
 
 ### 4. find()
 - **Tujuan**: Mencari karakter pertama dari kelas "1-B".
 - **Output**: <img width="710" height="115" alt="image" src="https://github.com/user-attachments/assets/7f6b252b-b539-47cb-9884-dad279a7bdf2" />
+- **SS Kode**: <img width="654" height="136" alt="image" src="https://github.com/user-attachments/assets/4e147142-268d-496e-a3bb-fc63a772f36d" />
 
 
 
 ### 5. some()
 - **Tujuan**: Mengecek apakah ada karakter dengan quirk "Decay".
 - **Output**:  <img width="386" height="30" alt="image" src="https://github.com/user-attachments/assets/0a9be9f1-b3be-4fa1-8a2d-d44dc2570497" />
+- **SS Kode**: <img width="801" height="180" alt="image" src="https://github.com/user-attachments/assets/fae6d45b-5f8a-4a53-85e8-a1c661d157e7" />
 
 
 
 ### 6. every()
 - **Tujuan**: Mengecek apakah semua karakter berumur lebih dari 15 tahun.
 - **Output**:  <img width="478" height="26" alt="image" src="https://github.com/user-attachments/assets/2c0e3b24-66a4-4548-bf05-0494ed706fd3" />
+- **SS Kode**: <img width="850" height="189" alt="image" src="https://github.com/user-attachments/assets/c983213b-721a-46dc-b250-b7ef7be5200c" />
 
 
 
